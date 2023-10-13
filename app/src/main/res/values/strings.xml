@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Animal Population</string>
+    <string name="badak_hitam">Badak Hitam</string>
+    <string name="gorila">Gorila</string>
+    <string name="komodo">Komodo</string>
+    <string name="macan_tutul_amur">Macan Tutul Amur</string>
+    <string name="orang_utan_sumatra">Orang Utan Sumatra</string>
+    <string name="penyu_sisik">Penyu Sisik</string>
+    <string name="pesut_mahakam">Pesut Mahakam</string>
+    <string name="saola">Saola</string>
+    <string name="vaquita">Vaquita</string>
+    <string name="harimau_sumatra">Harimau Sumatra</string>
+</resources>
