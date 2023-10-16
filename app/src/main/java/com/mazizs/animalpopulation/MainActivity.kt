@@ -112,7 +112,7 @@ fun TopicCard(topic: Topic, modifier: Modifier = Modifier) {
                         .size(15.dp)
                 )
                 Text(
-                    text = topic.availableCourses.toString(),
+                    text = topic.availablePopulation.toString(),
                     style = MaterialTheme.typography.labelMedium,
                     modifier = Modifier.padding(start = dimensionResource(R.dimen.padding_small))
                 )
