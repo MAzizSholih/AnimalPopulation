@@ -1,4 +1,4 @@
-package com.example.courses.ui.theme
+package com.mazizs.animalpopulation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
