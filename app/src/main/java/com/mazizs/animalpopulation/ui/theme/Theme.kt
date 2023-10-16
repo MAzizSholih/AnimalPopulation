@@ -14,12 +14,6 @@ import androidx.compose.ui.graphics.toArgb
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.platform.LocalView
 import androidx.core.view.WindowCompat
-import com.example.courses.ui.theme.primary_dark
-import com.example.courses.ui.theme.primary_light
-import com.example.courses.ui.theme.secondary_dark
-import com.example.courses.ui.theme.secondary_light
-import com.example.courses.ui.theme.tertiary_dark
-import com.example.courses.ui.theme.tertiary_light
 
 private val DarkColorScheme = darkColorScheme(
     primary = primary_dark,
